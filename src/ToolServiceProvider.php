@@ -101,7 +101,7 @@ class ToolServiceProvider extends ServiceProvider
             $translations = [];
         }
 
-        $translations = array_merge(trans('nova-file-manager::ui', [], 'fr'), $translations);
+        $translations = array_merge(trans('nova-file-manager::ui', [], 'en'), $translations);
 
         Nova::translations($translations);
     }

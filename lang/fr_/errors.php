@@ -4,20 +4,20 @@ declare(strict_types=1);
 
 return [
     'file' => [
-        'upload' => 'The file could not be uploaded!',
-        'upload_validation' => 'The uploaded file is invalid!',
-        'rename' => 'The file could not be renamed!',
-        'delete' => 'The file could not be deleted!',
-        'unzip' => 'The file could not be unzipped, as it is invalid or the destination already exists!',
+        'upload' => 'Le fichier n\'a pas pu être téléchargé !',
+        'upload_validation' => 'Le fichier téléchargé est invalide !',
+        'rename' => 'Le fichier n\'a pas pu être renommé !',
+        'delete' => 'Le fichier n\'a pas pu être supprimé !',
+        'unzip' => 'Le fichier n\'a pas pu être décompressé, car il est invalide ou la destination existe déjà !',
     ],
 
     'folder' => [
-        'create' => 'The folder could not be created!',
-        'rename' => 'The folder could not be renamed!',
-        'delete' => 'The folder could not be deleted!',
+        'create' => 'Le dossier n\'a pas pu être créé !',
+        'rename' => 'Le dossier n\'a pas pu être renommé !',
+        'delete' => 'Le dossier n\'a pas pu être supprimé !',
     ],
 
     'authorization' => [
-        'unauthorized' => 'This action [:action] is unauthorized.',
+        'unauthorized' => 'Cette action [:action] n\'est pas autorisée.',
     ],
 ];
