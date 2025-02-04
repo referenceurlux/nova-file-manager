@@ -32,7 +32,7 @@ return [
     'NovaFileManager.meta.size' => 'Taille',
     'NovaFileManager.meta.type' => 'Type',
     'NovaFileManager.meta.width' => 'Largeur',
-    'NovaFileManager.openBrowser' => 'Ouvrir le gestionnaire de fichiers',
+    'NovaFileManager.openBrowser' => 'Ouvrir mes médias',
     'NovaFileManager.preview.information' => 'Informations',
     'NovaFileManager.renameFileTitle' => 'Renommer le fichier',
     'NovaFileManager.renameFolderTitle' => 'Renommer le dossier',
